@@ -19,5 +19,5 @@ Gama Academy - Desafio: Página de Notícias do COVID-19
 
 ## Domínio próprio 
 
-- Não é preciso ter, recomendado o Netlify para hospedagem.
+- Não é preciso ter domínio próprio, recomendado o Netlify para hospedagem.
 

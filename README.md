@@ -21,13 +21,6 @@ Gama Academy - Desafio: Página de Notícias do COVID-19
 
 - Não é preciso ter domínio próprio, recomendado o Netlify para hospedagem.
 
-<! Meu nome é Denise, sou formada em Informática para Negócios e atualmente estou cursando MBA em Gestão da Tecnologia da Informação.
-Sou uma profissional focada, engajada e comprometida com as minhas metas e resultados. 
-Tenho facilidade para aprender e isto é um dos meus objetivos, nunca para de aprender.
 
-Minha jornada no Itaú iniciou-se em 2016, na Célula de Operações de Ativos e Serviços PJ, onde obtive conhecimento em diversos produtos, muitas experiências e bons resultados individuais, como a premiação por dois anos consecutivos no Programa de Reconhecimento de Alto Desempenho (PRAD) 2017 e 2018 e Mérito em 2017. Classificando-me no L superior e destaque X nos dois anos. Encontrei também nesta trajetória aptidão para propor melhorias de processos e junto com o meu time tivemos ótimos resultados na esteira de Renegociação PJ, reduzindo as devoluções, diminuindo não conformidades, automatizando os processos,  entre outros.
-Estou em busca de novos desafios, sendo está uma grande oportunidade para agregar valor à minha carreira profissional, com a chance de obter novos conhecimentos e novas oportunidades de desenvolvimento profissional e pessoal.
-
-Possuo cursos voltados a metodologia ágil e estou estudando para a certificação Scrum Master. 
 
 

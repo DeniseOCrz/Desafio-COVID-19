@@ -29,15 +29,54 @@
             <img id="imgLogo" src="imagens/logo 3_COVID.PNG">
         </div>
 
-        <form action="/action_page.php">
-            <label for="fname">First name:</label><br>
-            <input type="text" id="fname" name="fname" value="John"><br>
-            <label for="lname">Last name:</label><br>
-            <input type="text" id="lname" name="lname" value="Doe"><br><br>
-            <input type="submit" value="Submit">
-          </form> 
-          
-          <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+        <div id="curadoria">
+            <div class="info">
+                <img class="imgDestaque" src="imagens/contato_form.jfif" id="imagem">
+                <h2> Essa página foi criada especialmente para que você tire suas dúvidas, comente, reclame e faça sugestões, para que juntos possamos atualizar e melhorar todos os conteúdos e informações para melhor atendê-los.<br>Conto com vocês!</h2>                
+            </div>
+
+            <form name="formcontato" action="" method="POST">
+                <h2>Formulário de Contato</h2>
+
+                <p class="Nome">
+                    <input type="text" name="Nome" placeholder="Seu nome" required="required">
+                </p>
+
+                <p class="email">
+                    <input type="email" name="email" placeholder="Seu e-mail" required="required">
+                </p>
+
+                <p class="assunto">
+                    <input type="text" name="assunto" placeholder="Seu telefone" required="required">
+                </p>
+
+                <p class="mensagem">
+                    <textarea name="mensagem" placeholder="Sua mensagem"></textarea>
+                </p>
+
+                <p class="enviar">
+                    <input type="submit" name="enviar" value="Enviar">
+                </p>
+            </form>
+
+            <h3>Gratidão pela visita XD</h3>
+            <div id="rodape">
+                <div id="redesSociais">
+                    <div class="rede"><img src="imagens/Whatsapp_icon.png" width="5%" /> +55 11 98431-4060 </div>
+                    <div class="rede">
+                        <li><a href="contato.html" style="color:white"><i class="fas fa-envelope"></i> Contatos </a>
+                        </li>
+                    </div>
+                </div>
+                <div id="email">
+                    <h4 id="receba">Receba nossas novidades</h4>
+                    <input type="email" id="inputEmail" placeholder="Digite seu email" />
+                    <button>Enviar</button>
+                </div>
+            </div>           
+        </div>
+    </div>
+
 </body>
 
 </html>

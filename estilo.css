@@ -176,14 +176,14 @@ button {
 }
 
 
-.info {
+.info {    
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 10px;
     margin-right: 10px;
     color: #176c97;
     text-align: center;
-    padding: 1%;
+    padding: 3%;
 }
 
 #textoDestaque {
@@ -206,9 +206,10 @@ form{
     padding: 5px;
 }
 
-h2{
+h3 {    
     color: #176c97;
-
+    padding: 2%;
+    width: 100%; 
 }
 
 input, textarea{
